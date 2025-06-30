@@ -1,0 +1,492 @@
+[
+  {
+    "object_id": "1739",
+    "term_taxonomy_id": "1",
+    "term_order": "0"
+  },
+  {
+    "object_id": "1739",
+    "term_taxonomy_id": "21",
+    "term_order": "0"
+  },
+  {
+    "object_id": "1739",
+    "term_taxonomy_id": "33",
+    "term_order": "0"
+  },
+  {
+    "object_id": "1739",
+    "term_taxonomy_id": "35",
+    "term_order": "0"
+  },
+  {
+    "object_id": "1740",
+    "term_taxonomy_id": "1",
+    "term_order": "0"
+  },
+  {
+    "object_id": "1740",
+    "term_taxonomy_id": "31",
+    "term_order": "0"
+  },
+  {
+    "object_id": "1740",
+    "term_taxonomy_id": "33",
+    "term_order": "0"
+  },
+  {
+    "object_id": "1740",
+    "term_taxonomy_id": "34",
+    "term_order": "0"
+  },
+  {
+    "object_id": "1740",
+    "term_taxonomy_id": "35",
+    "term_order": "0"
+  },
+  {
+    "object_id": "1741",
+    "term_taxonomy_id": "1",
+    "term_order": "0"
+  },
+  {
+    "object_id": "1741",
+    "term_taxonomy_id": "20",
+    "term_order": "0"
+  },
+  {
+    "object_id": "1741",
+    "term_taxonomy_id": "28",
+    "term_order": "0"
+  },
+  {
+    "object_id": "1741",
+    "term_taxonomy_id": "35",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6520",
+    "term_taxonomy_id": "1",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6520",
+    "term_taxonomy_id": "17",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6520",
+    "term_taxonomy_id": "21",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6520",
+    "term_taxonomy_id": "24",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6525",
+    "term_taxonomy_id": "1",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6525",
+    "term_taxonomy_id": "23",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6525",
+    "term_taxonomy_id": "29",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6525",
+    "term_taxonomy_id": "30",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6529",
+    "term_taxonomy_id": "1",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6529",
+    "term_taxonomy_id": "17",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6529",
+    "term_taxonomy_id": "22",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6529",
+    "term_taxonomy_id": "27",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6529",
+    "term_taxonomy_id": "35",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6534",
+    "term_taxonomy_id": "1",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6534",
+    "term_taxonomy_id": "16",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6534",
+    "term_taxonomy_id": "19",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6534",
+    "term_taxonomy_id": "25",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6534",
+    "term_taxonomy_id": "26",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6534",
+    "term_taxonomy_id": "32",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6542",
+    "term_taxonomy_id": "1",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6542",
+    "term_taxonomy_id": "18",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6542",
+    "term_taxonomy_id": "20",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6542",
+    "term_taxonomy_id": "21",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6542",
+    "term_taxonomy_id": "27",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6542",
+    "term_taxonomy_id": "35",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6547",
+    "term_taxonomy_id": "1",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6547",
+    "term_taxonomy_id": "21",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6547",
+    "term_taxonomy_id": "34",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6547",
+    "term_taxonomy_id": "35",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6671",
+    "term_taxonomy_id": "59",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6678",
+    "term_taxonomy_id": "56",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6679",
+    "term_taxonomy_id": "56",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6682",
+    "term_taxonomy_id": "57",
+    "term_order": "0"
+  },
+  {
+    "object_id": "6684",
+    "term_taxonomy_id": "57",
+    "term_order": "0"
+  },
+  {
+    "object_id": "7366",
+    "term_taxonomy_id": "2",
+    "term_order": "0"
+  },
+  {
+    "object_id": "7366",
+    "term_taxonomy_id": "15",
+    "term_order": "0"
+  },
+  {
+    "object_id": "7403",
+    "term_taxonomy_id": "59",
+    "term_order": "0"
+  },
+  {
+    "object_id": "7764",
+    "term_taxonomy_id": "59",
+    "term_order": "0"
+  },
+  {
+    "object_id": "7800",
+    "term_taxonomy_id": "76",
+    "term_order": "0"
+  },
+  {
+    "object_id": "7800",
+    "term_taxonomy_id": "78",
+    "term_order": "0"
+  },
+  {
+    "object_id": "8817",
+    "term_taxonomy_id": "1",
+    "term_order": "0"
+  },
+  {
+    "object_id": "8839",
+    "term_taxonomy_id": "85",
+    "term_order": "0"
+  },
+  {
+    "object_id": "8842",
+    "term_taxonomy_id": "86",
+    "term_order": "0"
+  },
+  {
+    "object_id": "8844",
+    "term_taxonomy_id": "88",
+    "term_order": "0"
+  },
+  {
+    "object_id": "8853",
+    "term_taxonomy_id": "74",
+    "term_order": "0"
+  },
+  {
+    "object_id": "8855",
+    "term_taxonomy_id": "75",
+    "term_order": "0"
+  },
+  {
+    "object_id": "8856",
+    "term_taxonomy_id": "85",
+    "term_order": "0"
+  },
+  {
+    "object_id": "8860",
+    "term_taxonomy_id": "85",
+    "term_order": "0"
+  },
+  {
+    "object_id": "8951",
+    "term_taxonomy_id": "74",
+    "term_order": "0"
+  },
+  {
+    "object_id": "8951",
+    "term_taxonomy_id": "85",
+    "term_order": "0"
+  },
+  {
+    "object_id": "8951",
+    "term_taxonomy_id": "86",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9238",
+    "term_taxonomy_id": "95",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9275",
+    "term_taxonomy_id": "90",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9284",
+    "term_taxonomy_id": "95",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9289",
+    "term_taxonomy_id": "76",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9289",
+    "term_taxonomy_id": "95",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9295",
+    "term_taxonomy_id": "86",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9295",
+    "term_taxonomy_id": "95",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9300",
+    "term_taxonomy_id": "88",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9300",
+    "term_taxonomy_id": "95",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9304",
+    "term_taxonomy_id": "95",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9306",
+    "term_taxonomy_id": "95",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9308",
+    "term_taxonomy_id": "74",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9308",
+    "term_taxonomy_id": "95",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9310",
+    "term_taxonomy_id": "75",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9310",
+    "term_taxonomy_id": "95",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9314",
+    "term_taxonomy_id": "93",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9337",
+    "term_taxonomy_id": "95",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9601",
+    "term_taxonomy_id": "95",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9708",
+    "term_taxonomy_id": "74",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9708",
+    "term_taxonomy_id": "75",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9719",
+    "term_taxonomy_id": "74",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9719",
+    "term_taxonomy_id": "75",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9721",
+    "term_taxonomy_id": "64",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9721",
+    "term_taxonomy_id": "95",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9760",
+    "term_taxonomy_id": "95",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9767",
+    "term_taxonomy_id": "95",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9864",
+    "term_taxonomy_id": "95",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9872",
+    "term_taxonomy_id": "95",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9916",
+    "term_taxonomy_id": "95",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9974",
+    "term_taxonomy_id": "95",
+    "term_order": "0"
+  },
+  {
+    "object_id": "9987",
+    "term_taxonomy_id": "95",
+    "term_order": "0"
+  },
+  {
+    "object_id": "10094",
+    "term_taxonomy_id": "94",
+    "term_order": "0"
+  },
+  {
+    "object_id": "10102",
+    "term_taxonomy_id": "94",
+    "term_order": "0"
+  },
+  {
+    "object_id": "10108",
+    "term_taxonomy_id": "74",
+    "term_order": "0"
+  }
+]

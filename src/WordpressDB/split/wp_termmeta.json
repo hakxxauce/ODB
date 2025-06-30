@@ -1,0 +1,62 @@
+[
+  {
+    "meta_id": "1",
+    "term_id": "43",
+    "meta_key": "order",
+    "meta_value": "0"
+  },
+  {
+    "meta_id": "2",
+    "term_id": "43",
+    "meta_key": "order",
+    "meta_value": "0"
+  },
+  {
+    "meta_id": "3",
+    "term_id": "43",
+    "meta_key": "product_count_product_cat",
+    "meta_value": "0"
+  },
+  {
+    "meta_id": "4",
+    "term_id": "48",
+    "meta_key": "order",
+    "meta_value": "0"
+  },
+  {
+    "meta_id": "5",
+    "term_id": "48",
+    "meta_key": "order",
+    "meta_value": "0"
+  },
+  {
+    "meta_id": "6",
+    "term_id": "48",
+    "meta_key": "product_count_product_cat",
+    "meta_value": "0"
+  },
+  {
+    "meta_id": "7",
+    "term_id": "15",
+    "meta_key": "product_count_product_cat",
+    "meta_value": "1"
+  },
+  {
+    "meta_id": "8",
+    "term_id": "71",
+    "meta_key": "thumbnail_id",
+    "meta_value": "0"
+  },
+  {
+    "meta_id": "10",
+    "term_id": "90",
+    "meta_key": "thumbnail_id",
+    "meta_value": "0"
+  },
+  {
+    "meta_id": "12",
+    "term_id": "92",
+    "meta_key": "thumbnail_id",
+    "meta_value": "0"
+  }
+]

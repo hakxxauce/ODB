@@ -1,0 +1,492 @@
+.analyticsPanel {
+  padding: 2rem;
+  height: 100%;
+  overflow-y: auto;
+
+  /* Overview Stats */
+  .analyticsOverview {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin: 2.5rem 0;
+    justify-content: center;
+
+    .overviewCard {
+      background: linear-gradient(135deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.05) 100%);
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      border-radius: 18px;
+      padding: 1.7rem 2.2rem;
+      display: flex;
+      align-items: center;
+      gap: 1.2rem;
+      min-width: 220px;
+      box-shadow: 0 4px 24px 0 rgba(0, 0, 0, 0.12);
+      backdrop-filter: blur(10px);
+      transition: all 0.25s cubic-bezier(.4, 2, .6, 1);
+      &:hover {
+        transform: translateY(-6px) scale(1.03);
+        box-shadow: 0 10px 30px rgba(0, 212, 255, 0.18);
+        border-color: #00d4ff;
+      }
+
+      .overviewIcon {
+        font-size: 2.5rem;
+        width: 3.5rem;
+        height: 3.5rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 50%;
+        color: #fff;
+        box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.1);
+        opacity: 0.92;
+      }
+
+      .overviewContent {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+
+        h3 {
+          font-size: 2.1rem;
+          font-weight: 700;
+          color: #fff;
+          margin: 0 0 0.2rem 0;
+          letter-spacing: 0.5px;
+        }
+
+        p {
+          color: #b0b8d0;
+          font-size: 1.1rem;
+          font-weight: 500;
+          margin: 0;
+          text-transform: uppercase;
+          letter-spacing: 0.5px;
+        }
+      }
+    }
+  }
+
+  .chartsGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 2rem;
+  }
+
+  .chartCard {
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    padding: 1.5rem;
+    backdrop-filter: blur(10px);
+  }
+
+  .chartCard h3 {
+    color: #00d4ff;
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin: 0 0 1.5rem 0;
+    text-align: center;
+  }
+
+  .chartContent {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .chartItem {
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 10px;
+    padding: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  }
+
+  .chartItemHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.75rem;
+  }
+
+  .rank {
+    background: linear-gradient(45deg, #00d4ff, #4ecdc4);
+    color: white;
+    padding: 0.25rem 0.5rem;
+    border-radius: 12px;
+    font-size: 0.7rem;
+    font-weight: 600;
+    min-width: 30px;
+    text-align: center;
+  }
+
+  .label {
+    color: rgba(255, 255, 255, 0.9);
+    font-weight: 500;
+    flex: 1;
+    margin: 0 1rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .value {
+    color: #4ecdc4;
+    font-weight: 600;
+    font-size: 1.1rem;
+  }
+
+  .progressBar {
+    width: 100%;
+    height: 8px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 4px;
+    overflow: hidden;
+    margin-bottom: 0.5rem;
+  }
+
+  .progressFill {
+    height: 100%;
+    border-radius: 4px;
+    transition: width 0.8s ease;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+  }
+
+  .chartItemDetails {
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 0.8rem;
+    text-align: center;
+  }
+
+  /* Distribution Chart */
+  .distributionChart {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    height: 200px;
+    gap: 2rem;
+    padding: 1rem 0;
+  }
+
+  .distributionItem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    flex: 1;
+  }
+
+  .distributionBar {
+    width: 60px;
+    height: 150px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .distributionFill {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    border-radius: 8px;
+    transition: height 1s ease;
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.3);
+  }
+
+  .distributionLabel {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.25rem;
+    text-align: center;
+  }
+
+  .distributionLabel span:first-child {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 0.8rem;
+    font-weight: 500;
+  }
+
+  .distributionLabel span:last-child {
+    color: #00d4ff;
+    font-weight: 600;
+    font-size: 1.1rem;
+  }
+
+  /* Empty State */
+  .emptyState {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 4rem 2rem;
+    text-align: center;
+  }
+
+  .emptyIcon {
+    font-size: 4rem;
+    margin-bottom: 1rem;
+    opacity: 0.5;
+  }
+
+  .emptyState h3 {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .emptyState p {
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 1rem;
+  }
+
+  /* User Completions Table */
+  .userCompletionsTableWrapper {
+    width: 100%;
+    overflow-x: auto;
+    margin-top: 1rem;
+  }
+
+  .userCompletionsTable {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    background: rgba(30, 40, 60, 0.98);
+    border-radius: 12px;
+    box-shadow: 0 2px 12px 0 rgba(0,0,0,0.10);
+    overflow: hidden;
+
+    th, td {
+      padding: 0.75rem 1.2rem;
+      text-align: left;
+    }
+
+    th {
+      background: linear-gradient(90deg, #00d4ff 0%, #4ecdc4 100%);
+      color: #fff;
+      font-weight: 600;
+      font-size: 1rem;
+      border-bottom: 2px solid #232b3e;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    tr {
+      border-bottom: 1px solid #232b3e;
+
+      &:last-child {
+        border-bottom: none;
+      }
+    }
+
+    td {
+      color: #e0e6f6;
+      font-size: 1rem;
+      font-weight: 500;
+      vertical-align: middle;
+    }
+
+    td:first-child {
+      color: #00d4ff;
+      font-weight: 700;
+      font-size: 1.1rem;
+    }
+
+    td:last-child {
+      text-align: right;
+      color: #4ecdc4;
+      font-weight: 700;
+    }
+  }
+
+  /* Course Completions Table */
+  .courseCompletionsTableWrapper {
+    width: 100%;
+    overflow-x: auto;
+    margin-top: 1rem;
+  }
+
+  .courseCompletionsTable {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    background: rgba(30, 40, 60, 0.98);
+    border-radius: 12px;
+    box-shadow: 0 2px 12px 0 rgba(0,0,0,0.10);
+    overflow: hidden;
+
+    th, td {
+      padding: 0.75rem 1.2rem;
+      text-align: left;
+    }
+
+    th {
+      background: linear-gradient(90deg, #ff6b6b 0%, #ff8e8e 100%);
+      color: #fff;
+      font-weight: 600;
+      font-size: 1rem;
+      border-bottom: 2px solid #232b3e;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    tr {
+      border-bottom: 1px solid #232b3e;
+
+      &:last-child {
+        border-bottom: none;
+      }
+    }
+
+    td {
+      color: #e0e6f6;
+      font-size: 1rem;
+      font-weight: 500;
+      vertical-align: middle;
+    }
+
+    td:first-child {
+      color: #ff6b6b;
+      font-weight: 700;
+      font-size: 1.1rem;
+    }
+
+    td:last-child {
+      text-align: right;
+      color: #ff8e8e;
+      font-weight: 700;
+    }
+  }
+
+  @media (max-width: 600px) {
+    .userCompletionsTable th, .userCompletionsTable td {
+      padding: 0.5rem 0.5rem;
+      font-size: 0.9rem;
+    }
+
+    .courseCompletionsTable th, .courseCompletionsTable td {
+      padding: 0.5rem 0.5rem;
+      font-size: 0.9rem;
+    }
+  }
+
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .analyticsPanel {
+      padding: 1rem;
+    }
+    
+    .analyticsOverview {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1rem;
+    }
+    
+    .overviewCard {
+      padding: 1rem;
+    
+    }
+    
+    .overviewIcon {
+      font-size: 2rem;
+    }
+    
+    .overviewContent {
+      h3 {
+        font-size: 1.5rem;
+      }
+    }
+    
+    .analyticsGrid {
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }
+    
+    .chartCard {
+      padding: 1rem;
+    }
+    
+    .chartItem {
+      padding: 0.75rem;
+    }
+    
+    .label {
+      margin: 0 0.5rem;
+      font-size: 0.8rem;
+    }
+    
+    .distributionChart {
+      height: 150px;
+      gap: 1rem;
+    }
+    
+    .distributionBar {
+      width: 40px;
+      height: 100px;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .analyticsOverview {
+      grid-template-columns: 1fr;
+    }
+    
+    .chartItemHeader {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.5rem;
+    }
+    
+    .label {
+      margin: 0;
+      order: 2;
+    }
+    
+    .value {
+      order: 3;
+    }
+    
+    .distributionChart {
+      flex-direction: column;
+      height: auto;
+      gap: 2rem;
+    }
+    
+    .distributionItem {
+      flex-direction: row;
+      gap: 1rem;
+    }
+    
+    .distributionBar {
+      width: 40px;
+      height: 80px;
+    }
+  }
+
+  @media (max-width: 900px) {
+    .analyticsOverview {
+      gap: 1rem;
+
+      .overviewCard {
+        min-width: 160px;
+        padding: 1.1rem 1.2rem;
+
+        .overviewIcon {
+          font-size: 2rem;
+          width: 2.2rem;
+          height: 2.2rem;
+        }
+
+        .overviewContent {
+          h3 {
+            font-size: 1.3rem;
+          }
+
+          p {
+            font-size: 0.85rem;
+          }
+        }
+      }
+    }
+  }
+}

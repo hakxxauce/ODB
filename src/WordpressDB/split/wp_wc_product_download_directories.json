@@ -1,0 +1,12 @@
+[
+  {
+    "url_id": "1",
+    "url": "file://C:/Users/Admin/Local Sites/lms/app/public/wp-content/uploads/woocommerce_uploads/",
+    "enabled": "1"
+  },
+  {
+    "url_id": "2",
+    "url": "http://192.168.198.160:8003/wp-content/uploads/woocommerce_uploads/",
+    "enabled": "1"
+  }
+]

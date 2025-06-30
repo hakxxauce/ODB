@@ -1,0 +1,470 @@
+[
+  {
+    "term_id": "1",
+    "name": "Uncategorized",
+    "slug": "uncategorized",
+    "term_group": "0"
+  },
+  {
+    "term_id": "2",
+    "name": "simple",
+    "slug": "simple",
+    "term_group": "0"
+  },
+  {
+    "term_id": "3",
+    "name": "grouped",
+    "slug": "grouped",
+    "term_group": "0"
+  },
+  {
+    "term_id": "4",
+    "name": "variable",
+    "slug": "variable",
+    "term_group": "0"
+  },
+  {
+    "term_id": "5",
+    "name": "external",
+    "slug": "external",
+    "term_group": "0"
+  },
+  {
+    "term_id": "6",
+    "name": "exclude-from-search",
+    "slug": "exclude-from-search",
+    "term_group": "0"
+  },
+  {
+    "term_id": "7",
+    "name": "exclude-from-catalog",
+    "slug": "exclude-from-catalog",
+    "term_group": "0"
+  },
+  {
+    "term_id": "8",
+    "name": "featured",
+    "slug": "featured",
+    "term_group": "0"
+  },
+  {
+    "term_id": "9",
+    "name": "outofstock",
+    "slug": "outofstock",
+    "term_group": "0"
+  },
+  {
+    "term_id": "10",
+    "name": "rated-1",
+    "slug": "rated-1",
+    "term_group": "0"
+  },
+  {
+    "term_id": "11",
+    "name": "rated-2",
+    "slug": "rated-2",
+    "term_group": "0"
+  },
+  {
+    "term_id": "12",
+    "name": "rated-3",
+    "slug": "rated-3",
+    "term_group": "0"
+  },
+  {
+    "term_id": "13",
+    "name": "rated-4",
+    "slug": "rated-4",
+    "term_group": "0"
+  },
+  {
+    "term_id": "14",
+    "name": "rated-5",
+    "slug": "rated-5",
+    "term_group": "0"
+  },
+  {
+    "term_id": "15",
+    "name": "Uncategorized",
+    "slug": "uncategorized",
+    "term_group": "0"
+  },
+  {
+    "term_id": "16",
+    "name": "amet",
+    "slug": "amet",
+    "term_group": "0"
+  },
+  {
+    "term_id": "17",
+    "name": "Blog",
+    "slug": "blog",
+    "term_group": "0"
+  },
+  {
+    "term_id": "18",
+    "name": "Design",
+    "slug": "design",
+    "term_group": "0"
+  },
+  {
+    "term_id": "19",
+    "name": "dolor",
+    "slug": "dolor",
+    "term_group": "0"
+  },
+  {
+    "term_id": "20",
+    "name": "Earning",
+    "slug": "earning",
+    "term_group": "0"
+  },
+  {
+    "term_id": "21",
+    "name": "Freelance",
+    "slug": "freelance",
+    "term_group": "0"
+  },
+  {
+    "term_id": "22",
+    "name": "freelancer",
+    "slug": "freelancer",
+    "term_group": "0"
+  },
+  {
+    "term_id": "23",
+    "name": "Friend",
+    "slug": "friend",
+    "term_group": "0"
+  },
+  {
+    "term_id": "24",
+    "name": "Heart",
+    "slug": "heart",
+    "term_group": "0"
+  },
+  {
+    "term_id": "25",
+    "name": "ipsum",
+    "slug": "ipsum",
+    "term_group": "0"
+  },
+  {
+    "term_id": "26",
+    "name": "lorem",
+    "slug": "lorem",
+    "term_group": "0"
+  },
+  {
+    "term_id": "27",
+    "name": "Marketing",
+    "slug": "marketing",
+    "term_group": "0"
+  },
+  {
+    "term_id": "28",
+    "name": "neighbor",
+    "slug": "neighbor",
+    "term_group": "0"
+  },
+  {
+    "term_id": "29",
+    "name": "Neighbourhood",
+    "slug": "neighbourhood",
+    "term_group": "0"
+  },
+  {
+    "term_id": "30",
+    "name": "Post",
+    "slug": "post",
+    "term_group": "0"
+  },
+  {
+    "term_id": "31",
+    "name": "programming",
+    "slug": "programming",
+    "term_group": "0"
+  },
+  {
+    "term_id": "32",
+    "name": "sit",
+    "slug": "sit",
+    "term_group": "0"
+  },
+  {
+    "term_id": "33",
+    "name": "technology",
+    "slug": "technology",
+    "term_group": "0"
+  },
+  {
+    "term_id": "34",
+    "name": "Visitor",
+    "slug": "visitor",
+    "term_group": "0"
+  },
+  {
+    "term_id": "35",
+    "name": "work",
+    "slug": "work",
+    "term_group": "0"
+  },
+  {
+    "term_id": "36",
+    "name": "3D Modelling",
+    "slug": "3d-modelling",
+    "term_group": "0"
+  },
+  {
+    "term_id": "37",
+    "name": "Accounting",
+    "slug": "accounting",
+    "term_group": "0"
+  },
+  {
+    "term_id": "38",
+    "name": "Adobe XD",
+    "slug": "adobe-xd",
+    "term_group": "0"
+  },
+  {
+    "term_id": "39",
+    "name": "Blender",
+    "slug": "blender",
+    "term_group": "0"
+  },
+  {
+    "term_id": "41",
+    "name": "Business",
+    "slug": "business",
+    "term_group": "0"
+  },
+  {
+    "term_id": "43",
+    "name": "design",
+    "slug": "design",
+    "term_group": "0"
+  },
+  {
+    "term_id": "44",
+    "name": "Development",
+    "slug": "development",
+    "term_group": "0"
+  },
+  {
+    "term_id": "47",
+    "name": "Featured",
+    "slug": "featured",
+    "term_group": "0"
+  },
+  {
+    "term_id": "48",
+    "name": "featured",
+    "slug": "featured",
+    "term_group": "0"
+  },
+  {
+    "term_id": "49",
+    "name": "Graphic Design",
+    "slug": "graphic-design",
+    "term_group": "0"
+  },
+  {
+    "term_id": "51",
+    "name": "Heath &amp; Fitness",
+    "slug": "heath-fitness",
+    "term_group": "0"
+  },
+  {
+    "term_id": "52",
+    "name": "Illustrations",
+    "slug": "illustrations",
+    "term_group": "0"
+  },
+  {
+    "term_id": "53",
+    "name": "Project Management",
+    "slug": "project-management",
+    "term_group": "0"
+  },
+  {
+    "term_id": "54",
+    "name": "UI Design",
+    "slug": "ui-design",
+    "term_group": "0"
+  },
+  {
+    "term_id": "55",
+    "name": "UX Design",
+    "slug": "ux-design",
+    "term_group": "0"
+  },
+  {
+    "term_id": "56",
+    "name": "Footer 1",
+    "slug": "footer-1",
+    "term_group": "0"
+  },
+  {
+    "term_id": "57",
+    "name": "Footer 2",
+    "slug": "footer-2",
+    "term_group": "0"
+  },
+  {
+    "term_id": "58",
+    "name": "Footer 3",
+    "slug": "footer-3",
+    "term_group": "0"
+  },
+  {
+    "term_id": "59",
+    "name": "Primary",
+    "slug": "primary",
+    "term_group": "0"
+  },
+  {
+    "term_id": "60",
+    "name": "accent",
+    "slug": "accent",
+    "term_group": "0"
+  },
+  {
+    "term_id": "61",
+    "name": "hugh",
+    "slug": "hugh",
+    "term_group": "0"
+  },
+  {
+    "term_id": "62",
+    "name": "america",
+    "slug": "america",
+    "term_group": "0"
+  },
+  {
+    "term_id": "64",
+    "name": "computers",
+    "slug": "computers",
+    "term_group": "0"
+  },
+  {
+    "term_id": "65",
+    "name": "inbound",
+    "slug": "inbound",
+    "term_group": "0"
+  },
+  {
+    "term_id": "66",
+    "name": "outbound",
+    "slug": "outbound",
+    "term_group": "0"
+  },
+  {
+    "term_id": "67",
+    "name": "agents",
+    "slug": "agents",
+    "term_group": "0"
+  },
+  {
+    "term_id": "68",
+    "name": "blessing",
+    "slug": "blessing",
+    "term_group": "0"
+  },
+  {
+    "term_id": "69",
+    "name": "vushe",
+    "slug": "vushe",
+    "term_group": "0"
+  },
+  {
+    "term_id": "70",
+    "name": "talent",
+    "slug": "talent",
+    "term_group": "0"
+  },
+  {
+    "term_id": "71",
+    "name": "Talent Development",
+    "slug": "talent-development",
+    "term_group": "0"
+  },
+  {
+    "term_id": "74",
+    "name": "Inbound",
+    "slug": "inbound",
+    "term_group": "0"
+  },
+  {
+    "term_id": "75",
+    "name": "Outbound",
+    "slug": "outbound",
+    "term_group": "0"
+  },
+  {
+    "term_id": "76",
+    "name": "Tech support",
+    "slug": "tech-support",
+    "term_group": "0"
+  },
+  {
+    "term_id": "78",
+    "name": "troubleshooting",
+    "slug": "troubleshooting",
+    "term_group": "0"
+  },
+  {
+    "term_id": "85",
+    "name": "Managers",
+    "slug": "managers",
+    "term_group": "0"
+  },
+  {
+    "term_id": "86",
+    "name": "BI &amp; Reporting",
+    "slug": "bi-reporting",
+    "term_group": "0"
+  },
+  {
+    "term_id": "87",
+    "name": "Business Intelligence &amp; Reporting",
+    "slug": "business-intelligence-reporting",
+    "term_group": "0"
+  },
+  {
+    "term_id": "88",
+    "name": "Projects",
+    "slug": "projects",
+    "term_group": "0"
+  },
+  {
+    "term_id": "90",
+    "name": "Human Resources",
+    "slug": "human-resources",
+    "term_group": "0"
+  },
+  {
+    "term_id": "92",
+    "name": "WFM",
+    "slug": "wfm",
+    "term_group": "0"
+  },
+  {
+    "term_id": "93",
+    "name": "Helpdesk",
+    "slug": "helpdesk",
+    "term_group": "0"
+  },
+  {
+    "term_id": "94",
+    "name": "CX Admin &amp; Risk",
+    "slug": "cx-admin-risk",
+    "term_group": "0"
+  },
+  {
+    "term_id": "95",
+    "name": "All Staff",
+    "slug": "all-staff",
+    "term_group": "0"
+  }
+]

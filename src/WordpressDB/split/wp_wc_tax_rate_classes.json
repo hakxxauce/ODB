@@ -1,0 +1,12 @@
+[
+  {
+    "tax_rate_class_id": "1",
+    "name": "Reduced rate",
+    "slug": "reduced-rate"
+  },
+  {
+    "tax_rate_class_id": "2",
+    "name": "Zero rate",
+    "slug": "zero-rate"
+  }
+]

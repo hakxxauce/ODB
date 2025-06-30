@@ -1,0 +1,18 @@
+[
+  {
+    "group_id": "1",
+    "slug": "woocommerce-remote-inbox-engine"
+  },
+  {
+    "group_id": "2",
+    "slug": "action-scheduler-migration"
+  },
+  {
+    "group_id": "3",
+    "slug": "woocommerce-db-updates"
+  },
+  {
+    "group_id": "4",
+    "slug": ""
+  }
+]

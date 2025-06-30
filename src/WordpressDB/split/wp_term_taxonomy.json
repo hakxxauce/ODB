@@ -1,0 +1,626 @@
+[
+  {
+    "term_taxonomy_id": "1",
+    "term_id": "1",
+    "taxonomy": "category",
+    "description": "",
+    "parent": "0",
+    "count": "9"
+  },
+  {
+    "term_taxonomy_id": "2",
+    "term_id": "2",
+    "taxonomy": "product_type",
+    "description": "",
+    "parent": "0",
+    "count": "1"
+  },
+  {
+    "term_taxonomy_id": "3",
+    "term_id": "3",
+    "taxonomy": "product_type",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "4",
+    "term_id": "4",
+    "taxonomy": "product_type",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "5",
+    "term_id": "5",
+    "taxonomy": "product_type",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "6",
+    "term_id": "6",
+    "taxonomy": "product_visibility",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "7",
+    "term_id": "7",
+    "taxonomy": "product_visibility",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "8",
+    "term_id": "8",
+    "taxonomy": "product_visibility",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "9",
+    "term_id": "9",
+    "taxonomy": "product_visibility",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "10",
+    "term_id": "10",
+    "taxonomy": "product_visibility",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "11",
+    "term_id": "11",
+    "taxonomy": "product_visibility",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "12",
+    "term_id": "12",
+    "taxonomy": "product_visibility",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "13",
+    "term_id": "13",
+    "taxonomy": "product_visibility",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "14",
+    "term_id": "14",
+    "taxonomy": "product_visibility",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "15",
+    "term_id": "15",
+    "taxonomy": "product_cat",
+    "description": "",
+    "parent": "0",
+    "count": "1"
+  },
+  {
+    "term_taxonomy_id": "16",
+    "term_id": "16",
+    "taxonomy": "post_tag",
+    "description": "",
+    "parent": "0",
+    "count": "1"
+  },
+  {
+    "term_taxonomy_id": "17",
+    "term_id": "17",
+    "taxonomy": "post_tag",
+    "description": "",
+    "parent": "0",
+    "count": "2"
+  },
+  {
+    "term_taxonomy_id": "18",
+    "term_id": "18",
+    "taxonomy": "post_tag",
+    "description": "",
+    "parent": "0",
+    "count": "1"
+  },
+  {
+    "term_taxonomy_id": "19",
+    "term_id": "19",
+    "taxonomy": "post_tag",
+    "description": "",
+    "parent": "0",
+    "count": "1"
+  },
+  {
+    "term_taxonomy_id": "20",
+    "term_id": "20",
+    "taxonomy": "post_tag",
+    "description": "",
+    "parent": "0",
+    "count": "2"
+  },
+  {
+    "term_taxonomy_id": "21",
+    "term_id": "21",
+    "taxonomy": "post_tag",
+    "description": "",
+    "parent": "0",
+    "count": "4"
+  },
+  {
+    "term_taxonomy_id": "22",
+    "term_id": "22",
+    "taxonomy": "post_tag",
+    "description": "",
+    "parent": "0",
+    "count": "1"
+  },
+  {
+    "term_taxonomy_id": "23",
+    "term_id": "23",
+    "taxonomy": "post_tag",
+    "description": "",
+    "parent": "0",
+    "count": "1"
+  },
+  {
+    "term_taxonomy_id": "24",
+    "term_id": "24",
+    "taxonomy": "post_tag",
+    "description": "",
+    "parent": "0",
+    "count": "1"
+  },
+  {
+    "term_taxonomy_id": "25",
+    "term_id": "25",
+    "taxonomy": "post_tag",
+    "description": "",
+    "parent": "0",
+    "count": "1"
+  },
+  {
+    "term_taxonomy_id": "26",
+    "term_id": "26",
+    "taxonomy": "post_tag",
+    "description": "",
+    "parent": "0",
+    "count": "1"
+  },
+  {
+    "term_taxonomy_id": "27",
+    "term_id": "27",
+    "taxonomy": "post_tag",
+    "description": "",
+    "parent": "0",
+    "count": "2"
+  },
+  {
+    "term_taxonomy_id": "28",
+    "term_id": "28",
+    "taxonomy": "post_tag",
+    "description": "",
+    "parent": "0",
+    "count": "1"
+  },
+  {
+    "term_taxonomy_id": "29",
+    "term_id": "29",
+    "taxonomy": "post_tag",
+    "description": "",
+    "parent": "0",
+    "count": "1"
+  },
+  {
+    "term_taxonomy_id": "30",
+    "term_id": "30",
+    "taxonomy": "post_tag",
+    "description": "",
+    "parent": "0",
+    "count": "1"
+  },
+  {
+    "term_taxonomy_id": "31",
+    "term_id": "31",
+    "taxonomy": "post_tag",
+    "description": "",
+    "parent": "0",
+    "count": "1"
+  },
+  {
+    "term_taxonomy_id": "32",
+    "term_id": "32",
+    "taxonomy": "post_tag",
+    "description": "",
+    "parent": "0",
+    "count": "1"
+  },
+  {
+    "term_taxonomy_id": "33",
+    "term_id": "33",
+    "taxonomy": "post_tag",
+    "description": "",
+    "parent": "0",
+    "count": "2"
+  },
+  {
+    "term_taxonomy_id": "34",
+    "term_id": "34",
+    "taxonomy": "post_tag",
+    "description": "",
+    "parent": "0",
+    "count": "2"
+  },
+  {
+    "term_taxonomy_id": "35",
+    "term_id": "35",
+    "taxonomy": "post_tag",
+    "description": "",
+    "parent": "0",
+    "count": "6"
+  },
+  {
+    "term_taxonomy_id": "36",
+    "term_id": "36",
+    "taxonomy": "course-tag",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "37",
+    "term_id": "37",
+    "taxonomy": "course-tag",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "38",
+    "term_id": "38",
+    "taxonomy": "course-tag",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "39",
+    "term_id": "39",
+    "taxonomy": "course-tag",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "41",
+    "term_id": "41",
+    "taxonomy": "course-tag",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "43",
+    "term_id": "43",
+    "taxonomy": "product_cat",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "44",
+    "term_id": "44",
+    "taxonomy": "course-tag",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "47",
+    "term_id": "47",
+    "taxonomy": "course-tag",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "48",
+    "term_id": "48",
+    "taxonomy": "product_cat",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "49",
+    "term_id": "49",
+    "taxonomy": "course-tag",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "51",
+    "term_id": "51",
+    "taxonomy": "course-tag",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "52",
+    "term_id": "52",
+    "taxonomy": "course-tag",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "53",
+    "term_id": "53",
+    "taxonomy": "course-tag",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "54",
+    "term_id": "54",
+    "taxonomy": "course-tag",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "55",
+    "term_id": "55",
+    "taxonomy": "course-tag",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "56",
+    "term_id": "56",
+    "taxonomy": "nav_menu",
+    "description": "",
+    "parent": "0",
+    "count": "2"
+  },
+  {
+    "term_taxonomy_id": "57",
+    "term_id": "57",
+    "taxonomy": "nav_menu",
+    "description": "",
+    "parent": "0",
+    "count": "2"
+  },
+  {
+    "term_taxonomy_id": "58",
+    "term_id": "58",
+    "taxonomy": "nav_menu",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "59",
+    "term_id": "59",
+    "taxonomy": "nav_menu",
+    "description": "",
+    "parent": "0",
+    "count": "3"
+  },
+  {
+    "term_taxonomy_id": "60",
+    "term_id": "60",
+    "taxonomy": "course-tag",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "61",
+    "term_id": "61",
+    "taxonomy": "course-tag",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "62",
+    "term_id": "62",
+    "taxonomy": "course-tag",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "64",
+    "term_id": "64",
+    "taxonomy": "course-tag",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "65",
+    "term_id": "65",
+    "taxonomy": "course-tag",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "66",
+    "term_id": "66",
+    "taxonomy": "course-tag",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "67",
+    "term_id": "67",
+    "taxonomy": "course-tag",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "68",
+    "term_id": "68",
+    "taxonomy": "course-tag",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "69",
+    "term_id": "69",
+    "taxonomy": "course-tag",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "70",
+    "term_id": "70",
+    "taxonomy": "course-tag",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "71",
+    "term_id": "71",
+    "taxonomy": "course-category",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "74",
+    "term_id": "74",
+    "taxonomy": "course-category",
+    "description": "",
+    "parent": "0",
+    "count": "6"
+  },
+  {
+    "term_taxonomy_id": "75",
+    "term_id": "75",
+    "taxonomy": "course-category",
+    "description": "",
+    "parent": "0",
+    "count": "4"
+  },
+  {
+    "term_taxonomy_id": "76",
+    "term_id": "76",
+    "taxonomy": "course-category",
+    "description": "",
+    "parent": "0",
+    "count": "1"
+  },
+  {
+    "term_taxonomy_id": "78",
+    "term_id": "78",
+    "taxonomy": "course-tag",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "85",
+    "term_id": "85",
+    "taxonomy": "course-category",
+    "description": "",
+    "parent": "0",
+    "count": "4"
+  },
+  {
+    "term_taxonomy_id": "86",
+    "term_id": "86",
+    "taxonomy": "course-category",
+    "description": "",
+    "parent": "0",
+    "count": "3"
+  },
+  {
+    "term_taxonomy_id": "87",
+    "term_id": "87",
+    "taxonomy": "course-category",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "88",
+    "term_id": "88",
+    "taxonomy": "course-category",
+    "description": "",
+    "parent": "0",
+    "count": "2"
+  },
+  {
+    "term_taxonomy_id": "90",
+    "term_id": "90",
+    "taxonomy": "course-category",
+    "description": "",
+    "parent": "0",
+    "count": "1"
+  },
+  {
+    "term_taxonomy_id": "92",
+    "term_id": "92",
+    "taxonomy": "course-category",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "93",
+    "term_id": "93",
+    "taxonomy": "course-category",
+    "description": "",
+    "parent": "0",
+    "count": "1"
+  },
+  {
+    "term_taxonomy_id": "94",
+    "term_id": "94",
+    "taxonomy": "course-category",
+    "description": "",
+    "parent": "0",
+    "count": "2"
+  },
+  {
+    "term_taxonomy_id": "95",
+    "term_id": "95",
+    "taxonomy": "course-category",
+    "description": "",
+    "parent": "0",
+    "count": "17"
+  }
+]
