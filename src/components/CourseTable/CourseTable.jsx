@@ -44,7 +44,7 @@ const CourseTable = ({ data, totalRecords, filteredRecords }) => {
   const getStatusBadge = () => {
     return (
       <span className="statusBadge completed">
-        ✅ Completed
+         Completed
       </span>
     );
   };
@@ -54,7 +54,7 @@ const CourseTable = ({ data, totalRecords, filteredRecords }) => {
       {/* Table Header */}
       <div className="tableHeader">
         <div className="tableInfo">
-          <h3>📋 Course Completion Data</h3>
+          <h3> Course Completion Data</h3>
           <p>
             Showing {startIndex + 1}-{Math.min(endIndex, sortedData.length)} of {sortedData.length} records
             {totalRecords !== filteredRecords && ` (filtered from ${totalRecords} total)`}
@@ -92,7 +92,7 @@ const CourseTable = ({ data, totalRecords, filteredRecords }) => {
                 <td className="instructorCell">{item.instructor_name}</td>
                 <td className="statusCell">
                   {item.status === 'Completed' ? getStatusBadge() : (
-                    <span className="statusBadge incomplete">❌ Incomplete</span>
+                    <span className="statusBadge incomplete"> Incomplete</span>
                   )}
                 </td>
                 <td className="completedAtCell">{item.completed_at || '-'}</td>
@@ -110,14 +110,14 @@ const CourseTable = ({ data, totalRecords, filteredRecords }) => {
             onClick={() => setCurrentPage(1)}
             disabled={currentPage === 1}
           >
-            ⏮️ First
+             First
           </button>
           <button
             className="paginationBtn"
             onClick={() => setCurrentPage(prev => Math.max(prev - 1, 1))}
             disabled={currentPage === 1}
           >
-            ⬅️ Previous
+            Previous
           </button>
           <div className="pageNumbers">
             {Array.from({ length: Math.min(5, totalPages) }, (_, i) => {
@@ -147,14 +147,14 @@ const CourseTable = ({ data, totalRecords, filteredRecords }) => {
             onClick={() => setCurrentPage(prev => Math.min(prev + 1, totalPages))}
             disabled={currentPage === totalPages}
           >
-            Next ➡️
+            Next
           </button>
           <button
             className="paginationBtn"
             onClick={() => setCurrentPage(totalPages)}
             disabled={currentPage === totalPages}
           >
-            Last ⏭️
+            Last 
           </button>
         </div>
       )}

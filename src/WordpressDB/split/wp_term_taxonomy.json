@@ -525,7 +525,7 @@
     "taxonomy": "course-category",
     "description": "",
     "parent": "0",
-    "count": "6"
+    "count": "5"
   },
   {
     "term_taxonomy_id": "75",
@@ -621,6 +621,6 @@
     "taxonomy": "course-category",
     "description": "",
     "parent": "0",
-    "count": "17"
+    "count": "16"
   }
 ]

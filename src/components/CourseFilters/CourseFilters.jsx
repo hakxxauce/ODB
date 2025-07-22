@@ -5,7 +5,7 @@ const CourseFilters = ({ filters, onFilterChange, uniqueUsers, uniqueCourses, un
   return (
     <div className="course-filters">
       <div className="filters-header">
-        <h3>🔍 Filters & Search</h3>
+        <h3>Filters & Search</h3>
         <span className="record-count">
           Showing {totalRecords} of {totalRecords} records
         </span>

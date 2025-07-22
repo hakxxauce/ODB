@@ -142,7 +142,7 @@ const AnalyticsPanel = () => {
     return (
       <div className="analytics-panel">
         <div className="empty-state">
-          <div className="empty-icon">📊</div>
+          <div className="empty-icon"></div>
           <h3>No analytics data available</h3>
           <p>Please check your data files</p>
         </div>
@@ -153,7 +153,7 @@ const AnalyticsPanel = () => {
   return (
     <Box sx={{ p: 4 }} className="analyticsPanel">
       <Typography variant="h4" gutterBottom>
-        📊 Analytics Panel
+        Analytics Panel
       </Typography>
       {loading ? (
         <Typography>Loading...</Typography>
@@ -192,28 +192,28 @@ const AnalyticsPanel = () => {
       {/* Overview Stats */}
       <div className="analyticsOverview">
         <div className="overviewCard">
-          <span className="overviewIcon" style={{ background: '#1976d2' }}>👥</span>
+          <span className="overviewIcon" style={{ background: '#1976d2' }}></span>
           <div className="overviewContent">
             <h3>{analytics.totalUsers}</h3>
             <p>Total Users</p>
           </div>
         </div>
         <div className="overviewCard">
-          <span className="overviewIcon" style={{ background: '#43a047' }}>📚</span>
+          <span className="overviewIcon" style={{ background: '#43a047' }}></span>
           <div className="overviewContent">
             <h3>{analytics.totalCourses}</h3>
             <p>Total Courses</p>
           </div>
         </div>
         <div className="overviewCard">
-          <span className="overviewIcon" style={{ background: '#00bcd4' }}>✅</span>
+          <span className="overviewIcon" style={{ background: '#00bcd4' }}></span>
           <div className="overviewContent">
             <h3>{analytics.totalCompletions}</h3>
             <p>Total Completions</p>
           </div>
         </div>
         <div className="overviewCard">
-          <span className="overviewIcon" style={{ background: '#ff9800' }}>📈</span>
+          <span className="overviewIcon" style={{ background: '#ff9800' }}></span>
           <div className="overviewContent">
             <h3>{analytics.completionRate}%</h3>
             <p>Completion Rate</p>
@@ -250,7 +250,7 @@ const AnalyticsPanel = () => {
 
         {/* Top Courses */}
         <div className="chartCard">
-          <h3>🎯 Most Completed Courses</h3>
+          <h3> Most Completed Courses</h3>
           <div className="courseCompletionsTableWrapper">
             <table className="courseCompletionsTable">
               <thead>

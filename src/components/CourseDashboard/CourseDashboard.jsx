@@ -281,21 +281,21 @@ const CourseDashboard = ({ onStatsUpdate }) => {
             className={`toggleBtn${viewMode === 'table' ? ' active' : ''}`}
             onClick={() => setViewMode('table')}
           >
-            <span role="img" aria-label="table">📊</span> Table View
+            <span role="img" aria-label="table"></span> Table View
           </button>
           <button 
             className={`toggleBtn${viewMode === 'analytics' ? ' active' : ''}`}
             onClick={() => setViewMode('analytics')}
           >
-            <span role="img" aria-label="analytics">📈</span> Analytics
+            <span role="img" aria-label="analytics"></span> Analytics
           </button>
         </div>
         <div className="exportSection">
           <button className="exportBtn" onClick={handleExportCSV}>
-            <span role="img" aria-label="csv">📥</span> Export CSV ({filteredData.length} records)
+            <span role="img" aria-label="csv"></span> Export CSV ({filteredData.length} records)
           </button>
           <button className="exportExcelBtn" onClick={exportToExcel}>
-            <span role="img" aria-label="excel">📊</span> Export to Excel
+            <span role="img" aria-label="excel"></span> Export to Excel
           </button>
         </div>
       </div>
